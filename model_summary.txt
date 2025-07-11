@@ -1,0 +1,16 @@
+Electricity Bill Prediction - Model Summary
+==========================================
+
+Model Used: Random Forest Regressor
+Training Samples: 36276
+Test Samples: 9069
+
+RMSE: 5.31
+R² Score: 1.0000
+
+Top 5 Most Important Features:
+- MonthlyHours: 0.9312
+- TariffRate: 0.0678
+- Fan: 0.0004
+- Refrigerator: 0.0003
+- CostPerHour: 0.0002
