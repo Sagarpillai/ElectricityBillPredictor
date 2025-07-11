@@ -15,7 +15,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 if __name__ == "__main__":
     # Step 2: Load Dataset
-    df = pd.read_csv('data/electricity_bill_dataset.csv')
+    df = pd.read_csv('electricity_bill_dataset copy.csv')
 
     # Step 3: Quick Inspection
     print("First 5 rows:")
